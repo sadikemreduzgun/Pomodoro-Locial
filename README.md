@@ -21,3 +21,6 @@ sources includes: <br>
 configs include a properties file config.properties, holds more permanent data<br>
 dynamic data stored in Map.
 
+![Ekran görüntüsü 2024-02-29 173248](https://github.com/sadikemreduzgun/Pomodoro-Locial/assets/70113249/ed5407fb-9308-475a-8ab6-057bcaca674e)
+![Ekran görüntüsü 2024-02-29 173225](https://github.com/sadikemreduzgun/Pomodoro-Locial/assets/70113249/1633bfc6-9706-47bd-9e34-240c27edafdb)
+![Ekran görüntüsü 2024-02-29 173208](https://github.com/sadikemreduzgun/Pomodoro-Locial/assets/70113249/8f08af23-22ec-4e72-8c2a-991aedbfcdde)
