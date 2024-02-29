@@ -1,4 +1,7 @@
 # Pomodoro Locial (local social)
+
+Pomodoro Locial is a pomodoro timer application running on local network. People can see other peoples pomodoro counts. There is a mobile version of Pomodoro Locial working syncronized with desktop version but bug fixes are not over yet. 
+
 ### generally, shortly
 
 Main is main directory. It is executed. It starts every processes.<br>
